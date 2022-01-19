@@ -1,4 +1,5 @@
 module.exports = {
+  //  allow us to specify which network we want to connect to. 
   networks: {
     development: {
       host: "127.0.0.1",
